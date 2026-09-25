@@ -3,6 +3,7 @@ channels:
   -  conda-forge
 dependencies:
   - openfe == 1.12
-  - python == 3.12
+  - python == 3.11
   - nglview
   - jupyter_contrib_nbextensions
+  - jupyterlab
